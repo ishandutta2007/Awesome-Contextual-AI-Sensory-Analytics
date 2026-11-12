@@ -1,6 +1,6 @@
 # Awesome-Contextual-AI-Sensory-Analytics
 
-# Top Contextual AI & Sensory Analytics Ecosystem
+## Top Contextual AI & Sensory Analytics Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Emotion Recognition, Multimodal Sentiment Analysis & Affective Computing*  
