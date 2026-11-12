@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Contextual-AI-Sensory-Analytics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Contextual-AI-Sensory-Analytics?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Contextual-AI-Sensory-Analytics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Contextual-AI-Sensory-Analytics?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Contextual-AI-Sensory-Analytics/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Contextual-AI-Sensory-Analytics?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Contextual-AI-Sensory-Analytics/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Contextual-AI-Sensory-Analytics?style=flat-square" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Contextual-AI-Sensory-Analytics/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -77,7 +77,7 @@ The sector remains **moderately fragmented and highly specialized** rather than 
 
 ## 💻 Open-Source GitHub Projects
 
-| Project | Star Badge | Description |
+| Project | Stars_Badge | Description |
 |---|---|---|
 | **[DeepFace](https://github.com/serengil/deepface)** | [![Stars](https://img.shields.io/github/stars/serengil/deepface?style=social&color=white)](https://github.com/serengil/deepface/stargazers) | Lightweight facial recognition and facial attribute analysis library for Python. Performs real-time emotion recognition (angry, fear, neutral, sad, disgust, happy, surprise) along with age, gender, and race detection. |
 | **[OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)** | [![Stars](https://img.shields.io/github/stars/TadasBaltrusaitis/OpenFace?style=social&color=white)](https://github.com/TadasBaltrusaitis/OpenFace/stargazers) | State-of-the-art open-source facial behavior analysis toolkit. Capable of facial landmark detection, head pose tracking, eye-gaze estimation, and facial Action Unit (AU) recognition for affective computing. |
@@ -100,7 +100,7 @@ Contributions are warmly welcomed! Please help expand and refine this ecosystem:
 2. 🌿 **Create a feature branch** (`git checkout -b add-awesome-tool`).
 3. 📝 **Add or update entries in [README.md](file:///C:/Users/ishan/Documents/Projects/Awesome-Contextual-AI-Sensory-Analytics/README.md)** matching the existing table structure:
    - For SaaS: Include company scale/valuation, specific starting pricing, and exact free tier/trial limits.
-   - For Open-Source: Include the social white star badge linking to `/stargazers`.
+   - For Open-Source: Include the social white Stars_Badge linking to `/stargazers`.
 4. 🚀 **Submit a Pull Request** with a brief summary explaining the tool's relevance to contextual AI & sensory analytics.
 
 ---
