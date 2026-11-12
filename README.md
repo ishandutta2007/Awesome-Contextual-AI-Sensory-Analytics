@@ -1,31 +1,64 @@
-# Awesome-Contextual-AI-Sensory-Analytics
+<div align="center">
 
-## Top Contextual AI & Sensory Analytics Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Contextual AI & Sensory Analytics Banner" width="100%" />
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Emotion Recognition, Multimodal Sentiment Analysis & Affective Computing*  
-**Last updated: March 2026**
+# 🧠 Awesome Contextual AI & Sensory Analytics 👁️🎙️
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Contextual AI & Sensory Analytics**. These tools analyze human signals—facial expressions, voice, physiological data, and text—to infer emotional states, sentiment, engagement, and cognitive context. They are used in market research, UX testing, automotive safety, healthcare, and customer experience analytics.
+<p align="center">
+  <strong>Curated Directory of Contextual AI, Emotion Recognition, Affective Computing & Multimodal Sensory Analytics</strong>
+</p>
 
-**Examples** include Affectiva, Realeyes, MorphCast, Hume AI, Element Human, Entropik Tech, Sightcorp, Sensum, Empath, and Zoho Sense (the category leaders).
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Contextual-AI-Sensory-Analytics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Contextual-AI-Sensory-Analytics?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Contextual-AI-Sensory-Analytics/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Contextual-AI-Sensory-Analytics?style=flat-square&color=blue" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Contextual-AI-Sensory-Analytics/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Contextual-AI-Sensory-Analytics?style=flat-square" alt="Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Contextual-AI-Sensory-Analytics/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Open-source emphasis**: This section highlights active projects for self-hosted emotion recognition, open-source multimodal analysis, and community-driven affective computing—ideal for researchers, developers, and organizations seeking transparent, vendor-neutral sensory analytics without per-minute API pricing.
+<p align="center">
+  <a href="#-sector-overview--market-dynamics">Sector Overview</a> •
+  <a href="#-saashosted-platforms">SaaS Platforms</a> •
+  <a href="#-open-source-github-projects">Open-Source Projects</a> •
+  <a href="#-how-to-contribute">Contribute</a> •
+  <a href="#-support--sponsorship">Support</a> •
+  <a href="#-star-history">Star History</a>
+</p>
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+---
 
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+</div>
 
-## Sector Overview & Market Dynamics
+## 📌 Introduction & Scope
 
-The global Emotion AI and Affective Computing market is estimated between **$95B and $112B in 2025**, projected to surpass **$140B by 2026** at a 25–30% CAGR. The sector remains **moderately fragmented and highly specialized** rather than a winner-take-all monopoly, divided across horizontal enterprise software giants, in-cabin automotive perception providers, biometric sensor developers, and niche consumer neuroscience labs.
+Welcome to the definitive curated index of **Contextual AI & Sensory Analytics** resources, frameworks, tools, and enterprise SaaS platforms. 
 
-## SaaS/Hosted Platforms
+**Contextual AI and Sensory Analytics** encompass computer systems and machine learning models capable of sensing, processing, perceiving, and understanding nuanced human behavioral signals in real-time. By analyzing multimodal inputs—including **facial action units (FACS)**, **eye-gaze coordinates**, **vocal prosody & tone**, **physiological biometric signals (EDA, EEG, PPG, Heart Rate)**, and **contextual natural language**—these technologies reconstruct emotional states, cognitive load, user attention, valence, arousal, and intent.
+
+### 🎯 Key Applications
+- 🚗 **Automotive & In-Cabin Sensing**: Driver monitoring systems (DMS), fatigue detection, alertness tracking, and occupant comfort optimization.
+- 🔬 **UX Research & Consumer Neuroscience**: Webcam eye-tracking, heatmaps, subconscious emotional response scoring, and A/B ad testing.
+- 🏥 **Healthcare & Wellbeing**: Mental health diagnostics, non-verbal patient assessment, neurodivergent communication assistance, and clinical biofeedback.
+- 📞 **Contact Centers & Conversational Intelligence**: Real-time agent guidance, customer frustration detection, and empathetic voice AI.
+
+---
+
+## 📈 Sector Overview & Market Dynamics
+
+The global **Emotion AI and Affective Computing market** is estimated between **$95B and $112B in 2025**, projected to surpass **$140B by 2026** at an accelerating 25–30% CAGR. 
+
+The sector remains **moderately fragmented and highly specialized** rather than a winner-take-all monopoly:
+- **Cloud & Productivity Giants**: Embedding contextual sensing into large SaaS suites and enterprise CRM workflows (e.g., Zoho, Microsoft).
+- **Vertical Automotive OEMs & Tier-1 Suppliers**: Focusing on high-reliability, edge-computed in-cabin driver monitoring systems (DMS) under strict safety regulations (e.g., Smart Eye / Affectiva).
+- **Consumer Neuroscience Labs**: Supplying cloud and browser-based facial coding, webcam eye-tracking, and neuromarketing panels (e.g., Realeyes, Entropik, Element Human).
+- **Empathic Voice & Multimodal Foundation Model Startups**: Pioneering expressive speech-to-speech interaction and conversational prosody (e.g., Hume AI).
+
+---
+
+## ☁️ SaaS/Hosted Platforms
 
 | Product | Scale (Valuation / Revenue) | Description | Pricing (Starting Tier) | Free Tier / Trial Limits |
 |---|---|---|---|---|
@@ -40,7 +73,9 @@ The global Emotion AI and Affective Computing market is estimated between **$95B
 | **[MorphCast](https://www.morphcast.com/)** | Seed-stage (~$2M funding) / <$2M annual revenue | Client-side, browser-based Emotion AI HTML5 SDK delivering privacy-first real-time facial expression analysis without sending video to cloud. | $199/month (Minimal tier, includes 50 stream hours/month; overage ~$0.10/min) | **60-day free trial** across self-serve tiers via Stripe checkout (or free non-commercial license upon academic verification) |
 | **[Sensum](https://www.sensum.co/)** | Inactive / Deadpooled (~$1.5M historical funding) | Early pioneer in biometric sensor fusion combining wearable physiological data (EDA, heart rate, EEG) with facial expression analytics. | N/A (Defunct / corporate operations discontinued) | **No active tier** (Historical operations deadpooled) |
 
-## Open-Source GitHub Projects
+---
+
+## 💻 Open-Source GitHub Projects
 
 | Project | Star Badge | Description |
 |---|---|---|
@@ -55,22 +90,41 @@ The global Emotion AI and Affective Computing market is estimated between **$95B
 | **[BehaviorKit](https://github.com/IUB-RHouse/BehaviorKit)** | [![Stars](https://img.shields.io/github/stars/IUB-RHouse/BehaviorKit?style=social&color=white)](https://github.com/IUB-RHouse/BehaviorKit/stargazers) | Plug-and-play multimodal behavior analysis toolkit for robotics. Bundles real-time gaze tracking, ASR transcription, textual sentiment, valence & arousal estimation, and facial landmarks over WebSockets. |
 | **[GExSent](https://github.com/Subhanshusethi/GExSENT-MOE)** | [![Stars](https://img.shields.io/github/stars/Subhanshusethi/GExSENT-MOE?style=social&color=white)](https://github.com/Subhanshusethi/GExSENT-MOE/stargazers) | Multimodal sentiment analysis framework leveraging CLIP, Modern BERT, and Hierarchical Gated Mixture of Experts (MoE) for robust text-audio-visual sentiment classification. |
 
-## How to Contribute
+---
 
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, star badge, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
+## 🤝 How to Contribute
 
-Star the repo if you find it useful!
+Contributions are warmly welcomed! Please help expand and refine this ecosystem:
 
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Sensory analytics platforms process biometric and facial data, which is subject to strict privacy regulations (GDPR, BIPA, CCPA). Ensure informed consent, data minimization, and local legal review before deployment.
-- Open-source alternatives require ML expertise and hosting infrastructure but offer full privacy, on-premise execution, and total data control without recurring per-minute API costs.
+1. 🍴 **Fork the repository** to your own GitHub account.
+2. 🌿 **Create a feature branch** (`git checkout -b add-awesome-tool`).
+3. 📝 **Add or update entries in [README.md](file:///C:/Users/ishan/Documents/Projects/Awesome-Contextual-AI-Sensory-Analytics/README.md)** matching the existing table structure:
+   - For SaaS: Include company scale/valuation, specific starting pricing, and exact free tier/trial limits.
+   - For Open-Source: Include the social white star badge linking to `/stargazers`.
+4. 🚀 **Submit a Pull Request** with a brief summary explaining the tool's relevance to contextual AI & sensory analytics.
 
 ---
 
-**Made for researchers, UX teams, market analysts, and developers building affective computing infrastructure.**  
-Let's make contextual AI and sensory analytics more open, ethical, and accessible.
+## ☕ Support & Sponsorship
+
+If you find this curated collection helpful for your research, team, or projects, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it on GitHub.
+- 🍴 **Fork and share** with colleagues in affective computing, UX research, and AI perception.
+- ☕ **Buy a coffee & sponsor**: You can sponsor ongoing maintenance and development via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Thank you for supporting open contextual AI knowledge and research! 🙌
+
+---
+
+## 📊 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Contextual-AI-Sensory-Analytics&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Contextual-AI-Sensory-Analytics&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This is an independent, **community-curated** list — inclusion does not represent an endorsement.
+- Sensory analytics technologies process biometric, vocal, and facial data, which are subject to strict privacy frameworks (GDPR, EU AI Act, CCPA, BIPA). Always ensure informed participant consent, data minimization, and regulatory compliance before deploying emotion recognition systems.
+- Commercial platform pricing and quotas are subject to change by respective vendors.
