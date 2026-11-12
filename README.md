@@ -10,56 +10,56 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 **Examples** include Affectiva, Realeyes, MorphCast, Hume AI, Element Human, Entropik Tech, Sightcorp, Sensum, Empath, and Zoho Sense (the category leaders).
 
-**Open-source emphasis**: This section highlights every major active project for self-hosted emotion recognition, open-source multimodal analysis, and community-driven affective computing—ideal for researchers, developers, and organizations seeking transparent, vendor-neutral sensory analytics without per-minute API pricing.
+**Open-source emphasis**: This section highlights active projects for self-hosted emotion recognition, open-source multimodal analysis, and community-driven affective computing—ideal for researchers, developers, and organizations seeking transparent, vendor-neutral sensory analytics without per-minute API pricing.
 
-Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
+Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
+
+The global Emotion AI and Affective Computing market is estimated between **$95B and $112B in 2025**, projected to surpass **$140B by 2026** at a 25–30% CAGR. The sector remains **moderately fragmented and highly specialized** rather than a winner-take-all monopoly, divided across horizontal enterprise software giants, in-cabin automotive perception providers, biometric sensor developers, and niche consumer neuroscience labs.
+
 ## SaaS/Hosted Platforms
 
-| Product | Description | Pricing (Starting) | Free Tier / Trial Limits |
-|---------|-------------|-------------------|--------------------------|
-| **[Hume AI](https://www.hume.ai/)** | AI toolkit for voice and emotion. Expression Measurement API analyzes facial expressions, vocal prosody, and text sentiment. Free tier includes limited TTS, EVI (Empathic Voice Interface), and 1 concurrent connection [citation:12]. | Free tier: $0/month; paid tiers (Starter, Creator, Pro, Scale, Business, Enterprise) available | **Free**: 10,000 TTS characters/month, 5 EVI minutes/month, 1 concurrent connection, unlimited voice cloning, 3 team seats, Discord support [citation:12] |
-| **[Entropik Tech](https://www.entropik.io/)** | Emotion AI platform with hardware-free eye tracking and facial coding. Claims 95%+ accuracy. Used for consumer research, ad testing, and UX insights. Pricing is not public; demo required [citation:13]. | Quote-only (corporate pricing via demo) | **No free trial** per third-party listings [citation:7][citation:13] |
-| **[Affectiva (Smart Eye)](https://www.affectiva.com/)** | Pioneer in emotion AI and facial expression recognition. Widely used in automotive (driver monitoring), media analytics, and market research. | Quote-only (enterprise contract) | No public free tier; demo via sales |
-| **[Realeyes](https://www.realeyes.com/)** | Emotion AI for advertising and media measurement. Uses facial coding to predict attention and emotional response to video content. | Quote-only (enterprise contract) | No public free tier; demo via sales |
-| **[MorphCast](https://www.morphcast.com/)** | Browser-based emotion recognition SDK. Analyzes facial expressions via webcam in real time without server-side processing. | Quote-only (SDK licensing) | Free trial available for SDK evaluation |
-| **[Element Human](https://www.elementhuman.com/)** | Emotion and behavior analytics platform. Combines facial coding, voice analysis, and survey data for audience insights. | Quote-only (enterprise contract) | No public free tier; demo via sales |
-| **[Sightcorp](https://sightcorp.com/)** | Computer vision and emotion recognition for audience measurement. Provides real-time audience analytics for digital signage and retail. | Quote-only (enterprise contract) | No public free tier; demo via sales |
-| **[Sensum](https://www.sensum.co/)** | Implicit emotion measurement using wearable sensors (EDA, heart rate) combined with facial coding. Used in product testing and media research. | Quote-only (project-based pricing) | No public free tier; demo via sales |
-| **[Empath](https://empath.ai/)** | AI-powered emotion analytics for customer experience. Analyzes voice and text interactions to detect frustration and satisfaction. | Quote-only (enterprise contract) | No public free tier; demo via sales |
-| **[Zoho Sense](https://www.zoho.com/)** | Contextual AI within the Zoho ecosystem (limited public information available; part of Zoho's broader AI offerings). | Contact Zoho for pricing | Contact vendor |
+| Product | Scale (Valuation / Revenue) | Description | Pricing (Starting Tier) | Free Tier / Trial Limits |
+|---|---|---|---|---|
+| **[Zoho Sense / Zia](https://www.zoho.com/)** | ~$12B valuation / $1.5B+ annual revenue | Contextual behavioral analytics and conversational AI intelligence embedded across the Zoho enterprise suite. | $40/user/month (Enterprise CRM with Zia predictive AI) or PageSense from $20/month | **Forever Free Plan**: 5,000 monthly tracked visitors, 1-month retention, unlimited heatmaps/recordings up to 5k/month (PageSense); Zia developer tier provides monthly free token allowances |
+| **[Hume AI](https://www.hume.ai/)** | ~$225M valuation ($80M+ funding) / ~$5M revenue | Multimodal empathic AI platform featuring Empathic Voice Interface (EVI), expressive TTS (Octave), and facial/vocal expression measurement APIs. | $14/month (Creator tier) or Pro at $70/month; usage-based at $0.036/min (EVI) | **Forever Free Tier**: 5 EVI conversation minutes/month, 10,000 TTS characters/month, 1 concurrent connection, unlimited voice cloning |
+| **[Entropik Tech](https://www.entropik.io/)** | ~$150M valuation ($35M funding) / ~$5.5M annual revenue | Integrated Emotion AI research platform (Decode / Qatalyst) with webcam eye-tracking, facial coding, and voice tone measurement. | Custom enterprise contract (approx. $10,000+/year billed annually) | **Forever Free Core Tier**: 100 participant responses/month, 1 researcher seat, up to 3 studies, 5 AI creative prediction scans, limited Emotion AI responses |
+| **[Affectiva (Smart Eye)](https://www.affectiva.com/)** | $73.5M acquisition value (~$5M revenue at acquisition) | Emotion AI and facial expression analysis pioneer for automotive driver monitoring, UX, and media research (integrated with iMotions). | $25,000/year (commercial edge SDK license) or batch cloud API usage per minute | **No forever free tier**; 30-day evaluation trial available for academic/commercial SDK testing upon sales request |
+| **[Realeyes](https://www.realeyes.com/)** | ~$50M valuation ($33M+ funding) / ~$12M annual revenue | Human attention, eye gaze, and facial coding analytics platform measuring audience engagement and attention metrics for advertising and video. | Enterprise contract starting at $15,000–$25,000/year; self-serve webcam partner tier (RealEye.io) starts at $390/month | **No forever free tier**; 7-day limited free trial (via RealEye evaluation) or custom demo upon sales qualification |
+| **[Sightcorp (Raydiant)](https://sightcorp.com/)** | Acquired by Raydiant ($30M+ funding / ~$15M revenue) | Computer vision engine for real-time anonymous facial analysis, audience demographics, dwell time, and emotional reaction for digital signage. | $49/screen/month (annual prepay) or $59/screen/month (Raydiant In-Store Experience Platform + Sightcorp) | **No forever free tier**; 14-day free trial of Raydiant platform with analytics demo available on request |
+| **[Empath (WebEmpath)](https://webempath.com/)** | Seed-stage (~$3M funding) / ~$2M–$3M annual revenue | Speech emotion recognition API that identifies 4 primary emotions (joy, sorrow, anger, calm) and vigor in real time from vocal acoustic properties. | Custom enterprise tier / contact sales (domestic & international API contracts) | **No forever free tier** (legacy free API discontinued Oct 2026); custom pilot trial provided upon partner registration |
+| **[Element Human](https://www.elementhuman.com/)** | Seed-stage (~$3.4M funding) / <$3M annual revenue | Human experience and sensory measurement suite capturing facial coding, eye-gaze, and brand response metrics for creative testing. | $1,995/credit per single study (or $1,695/credit on annual commitment) | **No forever free tier**; interactive sandbox demo and trial study scoping available through sales consultation |
+| **[MorphCast](https://www.morphcast.com/)** | Seed-stage (~$2M funding) / <$2M annual revenue | Client-side, browser-based Emotion AI HTML5 SDK delivering privacy-first real-time facial expression analysis without sending video to cloud. | $199/month (Minimal tier, includes 50 stream hours/month; overage ~$0.10/min) | **60-day free trial** across self-serve tiers via Stripe checkout (or free non-commercial license upon academic verification) |
+| **[Sensum](https://www.sensum.co/)** | Inactive / Deadpooled (~$1.5M historical funding) | Early pioneer in biometric sensor fusion combining wearable physiological data (EDA, heart rate, EEG) with facial expression analytics. | N/A (Defunct / corporate operations discontinued) | **No active tier** (Historical operations deadpooled) |
 
 ## Open-Source GitHub Projects
 
 | Project | Star Badge | Description |
-|---------|------------|-------------|
-| **[ERML (Emotion Recognition ML)](https://github.com/sid-lakhani/erml)** | [![Stars](https://img.shields.io/github/stars/sid-lakhani/erml?style=social&color=white)](https://github.com/sid-lakhani/erml/stargazers) | Pip-installable Python SDK for facial emotion recognition. Analyzes images for 7 emotions (angry, disgust, fear, happy, sad, surprise, neutral). Trained on FER-2013. Lightweight—no camera or display logic included; drop into any project and pass a frame [citation:2]. |
-| **[Emolysis](https://github.com/ControlNet/emolysis)** | [![Stars](https://img.shields.io/github/stars/ControlNet/emolysis?style=social&color=white)](https://github.com/ControlNet/emolysis/stargazers) | Python-based open-source group emotion analysis and visualization toolkit. Processes synchronized multimodal input (video) and maps to group-level emotion, valence, and arousal. Cross-platform (Android, iOS, Windows) with GUI for modality selection and target person filtering [citation:5]. |
-| **[online-emotion-detection](https://pypi.org/project/online-emotion-detection/)** | [![Stars](https://img.shields.io/github/stars/sid-lakhani/online-emotion-detection?style=social&color=white)](https://github.com/sid-lakhani/online-emotion-detection/stargazers) | Production-grade Python package for real-time emotion detection. Ships a FastAPI service with unary (`/predict`) and streaming (`/stream`) endpoints, client proxies (unary and async), and runtime selection (PyTorch, TorchScript, ONNX, TensorRT). Supports AffectNet 7- or 8-class models with valence/arousal outputs [citation:9]. |
-| **[BehaviorKit](https://github.com/IUB-RHouse/BehaviorKit)** | [![Stars](https://img.shields.io/github/stars/IUB-RHouse/BehaviorKit?style=social&color=white)](https://github.com/IUB-RHouse/BehaviorKit/stargazers) | Open-source plug-and-play module for real-time behavior analysis on robots. Bundles gaze tracking, transcription, textual sentiment, facial emotion (valence/arousal), and face/pose landmarks. Connects via WebSocket to ROS or custom clients [citation:14]. |
-
-### Additional Strong Open-Source Options
-
-| Project | Star Badge | Description |
-|---------|------------|-------------|
-| **[LibEER](https://github.com/chaoyue123/LibEER)** | [![Stars](https://img.shields.io/github/stars/chaoyue123/LibEER?style=social&color=white)](https://github.com/chaoyue123/LibEER/stargazers) | Comprehensive benchmark and algorithm library for EEG-based emotion recognition. PyTorch implementations of 17 deep learning models across 6 datasets with standardized protocols for fair comparison [citation:8]. |
-| **[LibEMER](https://github.com/chaoyue123/LibEMER)** | [![Stars](https://img.shields.io/github/stars/chaoyue123/LibEMER?style=social&color=white)](https://github.com/chaoyue123/LibEMER/stargazers) | Unified evaluation framework for EEG-based multimodal emotion recognition. Fully reproducible PyTorch implementations with standardized preprocessing and experimental setups [citation:1]. |
-| **[CLARA](https://github.com/phuonglamgithub/CLARA)** | [![Stars](https://img.shields.io/github/stars/phuonglamgithub/CLARA?style=social&color=white)](https://github.com/phuonglamgithub/CLARA/stargazers) | Multimodal sentiment analysis framework using frozen CLIP and DeBERTa encoders with LoRA. Bidirectional co-attention for vision-language fusion. Achieves 83.16% on MVSA-Single with only 7.45% trainable parameters [citation:3]. |
-| **[GExSent](https://github.com/Subhanshusethi/GExSENT-MOE)** | [![Stars](https://img.shields.io/github/stars/Subhanshusethi/GExSENT-MOE?style=social&color=white)](https://github.com/Subhanshusethi/GExSENT-MOE/stargazers) | Gated experts architecture for robust multimodal sentiment analysis. Combines CLIP and Modern BERT with Hierarchical Gated Mixture of Experts and Gated Attention Mechanism. Evaluated on MOSI, MOSEI, and Memotion [citation:15]. |
-
-**Frameworks for building custom systems**: Combine **ERML** or **online-emotion-detection** for production facial emotion inference, **Emolysis** for group-level analysis, **LibEER** or **LibEMER** for EEG-based affective computing research, and **CLARA** or **GExSent** for multimodal sentiment fusion—all deployable via Python and Docker without per-minute API costs.
+|---|---|---|
+| **[DeepFace](https://github.com/serengil/deepface)** | [![Stars](https://img.shields.io/github/stars/serengil/deepface?style=social&color=white)](https://github.com/serengil/deepface/stargazers) | Lightweight facial recognition and facial attribute analysis library for Python. Performs real-time emotion recognition (angry, fear, neutral, sad, disgust, happy, surprise) along with age, gender, and race detection. |
+| **[OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)** | [![Stars](https://img.shields.io/github/stars/TadasBaltrusaitis/OpenFace?style=social&color=white)](https://github.com/TadasBaltrusaitis/OpenFace/stargazers) | State-of-the-art open-source facial behavior analysis toolkit. Capable of facial landmark detection, head pose tracking, eye-gaze estimation, and facial Action Unit (AU) recognition for affective computing. |
+| **[face_classification](https://github.com/oarriaga/face_classification)** | [![Stars](https://img.shields.io/github/stars/oarriaga/face_classification?style=social&color=white)](https://github.com/oarriaga/face_classification/stargazers) | Real-time face detection and emotion/gender classification using FER-2013 and IMDB datasets with Keras CNN architecture and OpenCV video pipelines. |
+| **[FER](https://github.com/justinshenk/fer)** | [![Stars](https://img.shields.io/github/stars/justinshenk/fer?style=social&color=white)](https://github.com/justinshenk/fer/stargazers) | PyPI-installable Python package for Facial Expression Recognition using deep convolutional neural networks. Extracts 7 universal emotion percentages directly from video or static frames. |
+| **[Py-Feat](https://github.com/cosanlab/py-feat)** | [![Stars](https://img.shields.io/github/stars/cosanlab/py-feat?style=social&color=white)](https://github.com/cosanlab/py-feat/stargazers) | Python Facial Expression Analysis Toolbox. Comprehensive suite for detecting facial landmarks, emotions, muscle action units (FACS AUs), and head poses with built-in preprocessing and plotting utilities. |
+| **[CMU-MultimodalSDK](https://github.com/CMU-MultiComp-Lab/CMU-MultimodalSDK)** | [![Stars](https://img.shields.io/github/stars/CMU-MultiComp-Lab/CMU-MultimodalSDK?style=social&color=white)](https://github.com/CMU-MultiComp-Lab/CMU-MultimodalSDK/stargazers) | Carnegie Mellon MultiComp Lab's toolkit (`mmdatasdk`) for managing, downloading, and temporally aligning multimodal time-series datasets (audio, visual, text) for affective computing benchmarks like CMU-MOSI and CMU-MOSEI. |
+| **[Emolysis](https://github.com/ControlNet/emolysis)** | [![Stars](https://img.shields.io/github/stars/ControlNet/emolysis?style=social&color=white)](https://github.com/ControlNet/emolysis/stargazers) | Multimodal open-source group emotion analysis and visualization toolkit. Processes synchronized multimodal video feeds and maps to group-level emotional valence and arousal with a cross-platform GUI. |
+| **[ERML](https://github.com/sid-lakhani/erml)** | [![Stars](https://img.shields.io/github/stars/sid-lakhani/erml?style=social&color=white)](https://github.com/sid-lakhani/erml/stargazers) | Pip-installable Python SDK for facial emotion recognition. Analyzes images for 7 basic emotions using lightweight FER-2013 architectures, natively returning structured JSON data for AI agents. |
+| **[BehaviorKit](https://github.com/IUB-RHouse/BehaviorKit)** | [![Stars](https://img.shields.io/github/stars/IUB-RHouse/BehaviorKit?style=social&color=white)](https://github.com/IUB-RHouse/BehaviorKit/stargazers) | Plug-and-play multimodal behavior analysis toolkit for robotics. Bundles real-time gaze tracking, ASR transcription, textual sentiment, valence & arousal estimation, and facial landmarks over WebSockets. |
+| **[GExSent](https://github.com/Subhanshusethi/GExSENT-MOE)** | [![Stars](https://img.shields.io/github/stars/Subhanshusethi/GExSENT-MOE?style=social&color=white)](https://github.com/Subhanshusethi/GExSENT-MOE/stargazers) | Multimodal sentiment analysis framework leveraging CLIP, Modern BERT, and Hierarchical Gated Mixture of Experts (MoE) for robust text-audio-visual sentiment classification. |
 
 ## How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
+3. Include: name, link, star badge, 1–2 sentence description, and whether it's SaaS or open-source.
 4. Submit PR with a short explanation.
 
 Star the repo if you find it useful!
@@ -68,7 +68,7 @@ Star the repo if you find it useful!
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Sensory analytics platforms process biometric and facial data, which is subject to strict privacy regulations (GDPR, BIPA, CCPA). Ensure informed consent, data minimization, and local legal review before deployment.
-- Commercial platforms (Affectiva, Realeyes, Entropik, etc.) are almost universally quote-only with no public pricing or free trials [citation:7][citation:13]. Open-source alternatives require ML expertise and infrastructure but offer full transparency and data control.
+- Open-source alternatives require ML expertise and hosting infrastructure but offer full privacy, on-premise execution, and total data control without recurring per-minute API costs.
 
 ---
 
